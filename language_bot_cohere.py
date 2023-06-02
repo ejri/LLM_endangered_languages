@@ -6,8 +6,8 @@ def open_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as infile:
         return infile.read()
 
-# Set up your OpenAI API credentials
-co = cohere.Client(open_file('cohereapikey.txt')) # This is your trial API key
+# Set up your Cohere API credentials
+co = cohere.Client(open_file('cohereapikey.txt'))
 
 # Function to prompt the language model and get its response
 def generate_response(prompt):
