@@ -1,6 +1,6 @@
 # The Endangered Languages Initiative 
 
-The endangered languages intitiative is a project aimed to use foundation and large language models to safeguarding and revitalization of endangered languages (and cultural heritage).
+The endangered languages initiative is a project aimed to use foundation and large language models to safeguarding and revitalization of endangered languages (and cultural heritage).
 
 The project aims to curate data from endangered languages, and create fine-tuned models for the languages, and create a simple tutor bot application to teach people the languages.   
 
